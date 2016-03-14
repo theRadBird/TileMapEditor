@@ -1,0 +1,37 @@
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.InfoForm.resources
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+C:\Users\Julie\Documents\Visual Studio 2012\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.MapForm.resources
+J:\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+J:\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+J:\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+J:\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+J:\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+J:\MapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+J:\MapEditor\MapEditor\obj\Debug\MapEditor.MapForm.resources
+J:\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+J:\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+G:\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+G:\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+G:\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+G:\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+G:\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+G:\MapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+G:\MapEditor\MapEditor\obj\Debug\MapEditor.MapForm.resources
+G:\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+G:\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\obj\Debug\MapEditor.MapForm.resources
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
