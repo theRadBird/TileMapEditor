@@ -17,14 +17,7 @@ namespace MapEditor
     public partial class MapForm : Form
     {
         //global variables
-        string water;
-        string grass;
-        string lava;
-        string forest;
-        string mountains;
-        string sand;
-        string empty;
-        string eraser;
+        string water, grass, lava, forest, mountains, sand, empty, eraser;
         int pb_ActiveImage;
         TableLayoutPanel Table;
         Tile[,] tiles;

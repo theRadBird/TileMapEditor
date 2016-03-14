@@ -35,3 +35,12 @@ G:\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
 \\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\obj\Debug\MapEditor.MapForm.resources
 \\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
 \\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\JuliannInternicolaMapEditor.zip\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\TileMapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\TileMapEditor\MapEditor\obj\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\TileMapEditor\MapEditor\obj\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\TileMapEditor\MapEditor\bin\Debug\MapEditor.exe
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\TileMapEditor\MapEditor\bin\Debug\MapEditor.pdb
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\TileMapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\TileMapEditor\MapEditor\obj\Debug\MapEditor.MapForm.resources
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\TileMapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\jmi6217\IGMProfile\Desktop\TileMapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
